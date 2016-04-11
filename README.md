@@ -33,6 +33,7 @@ Belgian Agencies (in no specific order)
 ## Ghent ##
 1. http://wijs.be/
 2. http://gents.be/
+3. http://www.littlemissrobot.com/
 
 ## Leuven ##
 1. https://www.wieni.be/
