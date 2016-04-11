@@ -37,6 +37,7 @@ Belgian Agencies
 2. http://www.kunstmaan.be/
 3. http://boondoggle.be/
 4. http://www.statik.be/
+5. https://madewithlove.be/
 
 ## Malines ##
 1. http://www.brandworks.be/
