@@ -34,6 +34,7 @@ Belgian Agencies (in no specific order)
 1. http://wijs.be/
 2. http://gents.be/
 3. http://www.littlemissrobot.com/
+4. http://milkandcookies.be/
 
 ## Leuven ##
 1. https://www.wieni.be/
