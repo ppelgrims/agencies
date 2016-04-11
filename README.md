@@ -1,6 +1,6 @@
 # Agencies
 
-Belgian Agencies (in no specific order)
+A very incomplete list of Belgian Agencies (in no specific order)
 
 ## Antwerp ##
 
