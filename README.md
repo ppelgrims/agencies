@@ -4,41 +4,41 @@ Belgian Agencies
 
 ## Antwerp ##
 
-http://omakase.digital/
-http://designisdead.com/
-http://www.thesedays.com/
-http://www.dallas.be/
-http://www.contentcowboys.com/
-http://www.appstrakt.com/
-http://www.wemakegraphics.be/
-http://www.theparkinglot.com/
-http://www.duvalguillaume.com/
-http://www.ldv.be/
-http://www.nineoclocksomewhe.re/
-http://www.prophets.be/
-http://www.gonzales.be/
-http://www.amphion.be/
-http://www.opdevloer.be/
-http://www.lunargravity.be
-http://www.mirrormirror.be/
-http://www.10.be
-http://www.appamist.com
+1. http://omakase.digital/
+2. http://designisdead.com/
+3. http://www.thesedays.com/
+4. http://www.dallas.be/
+5. http://www.contentcowboys.com/
+6. http://www.appstrakt.com/
+7. http://www.wemakegraphics.be/
+8. http://www.theparkinglot.com/
+9. http://www.duvalguillaume.com/
+10. http://www.ldv.be/
+11. http://www.nineoclocksomewhe.re/
+12. http://www.prophets.be/
+13. http://www.gonzales.be/
+14. http://www.amphion.be/
+15. http://www.opdevloer.be/
+16. http://www.lunargravity.be
+17. http://www.mirrormirror.be/
+18. http://www.10.be
+19. http://www.appamist.com
 
 ## Brussels ##
-http://www.tbwagroup.be/
-http://famous.be/
+1. http://www.tbwagroup.be/
+2. http://famous.be/
 
 ## Ghent ##
-http://wijs.be/
-http://gents.be/
+1. http://wijs.be/
+2. http://gents.be/
 
 ## Leuven ##
-https://www.wieni.be/
-http://www.kunstmaan.be/
-http://boondoggle.be/
-http://www.statik.be
+1. https://www.wieni.be/
+2. http://www.kunstmaan.be/
+3. http://boondoggle.be/
+4. http://www.statik.be/
 
 ## Malines ##
-http://www.brandworks.be/
-http://denku.be/
-http://gemacoglobal.com/
+1. http://www.brandworks.be/
+2. http://denku.be/
+3. http://gemacoglobal.com/
