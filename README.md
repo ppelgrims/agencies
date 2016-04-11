@@ -21,20 +21,23 @@ A very incomplete list of Belgian Agencies (in no specific order)
 15. http://www.opdevloer.be/
 16. http://www.lunargravity.be
 17. http://www.mirrormirror.be/
-18. http://www.10.be
-19. http://www.appamist.com
+18. http://www.10.be/
+19. http://www.appamist.com/
 20. http://www.antwerpfactory.com/
+21. http://www.mrhenry.be/
 
 ## Brussels ##
 1. http://www.tbwagroup.be/
 2. http://famous.be/
 3. http://www.saatchi.be/
+4. http://www.mortierbrigade.com/
 
 ## Ghent ##
 1. http://wijs.be/
 2. http://gents.be/
 3. http://www.littlemissrobot.com/
 4. http://milkandcookies.be/
+5. http://sumocoders.be/
 
 ## Leuven ##
 1. https://www.wieni.be/
@@ -42,8 +45,11 @@ A very incomplete list of Belgian Agencies (in no specific order)
 3. http://boondoggle.be/
 4. http://www.statik.be/
 5. https://madewithlove.be/
+6. http://there.be/
+7. http://kpot.be/
 
 ## Malines ##
 1. http://www.brandworks.be/
 2. http://denku.be/
 3. http://gemacoglobal.com/
+4. http://uni-t.be/
