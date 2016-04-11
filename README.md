@@ -23,6 +23,7 @@ Belgian Agencies (in no specific order)
 17. http://www.mirrormirror.be/
 18. http://www.10.be
 19. http://www.appamist.com
+20. http://www.antwerpfactory.com/
 
 ## Brussels ##
 1. http://www.tbwagroup.be/
