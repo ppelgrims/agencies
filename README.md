@@ -1,6 +1,6 @@
 # Agencies
 
-Belgian Agencies
+Belgian Agencies (in no specific order)
 
 ## Antwerp ##
 
@@ -27,6 +27,7 @@ Belgian Agencies
 ## Brussels ##
 1. http://www.tbwagroup.be/
 2. http://famous.be/
+3. http://www.saatchi.be/
 
 ## Ghent ##
 1. http://wijs.be/
