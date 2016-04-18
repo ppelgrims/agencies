@@ -25,12 +25,14 @@ A very incomplete list of Belgian Agencies (in no specific order)
 19. http://www.appamist.com/
 20. http://www.antwerpfactory.com/
 21. http://www.mrhenry.be/
+22. http://www.blend.be/
 
 ## Brussels ##
 1. http://www.tbwagroup.be/
 2. http://famous.be/
 3. http://www.saatchi.be/
 4. http://www.mortierbrigade.com/
+5. http://bbdo.be/
 
 ## Ghent ##
 1. http://wijs.be/
