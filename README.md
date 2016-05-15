@@ -41,6 +41,7 @@ A very incomplete list of Belgian Agencies (in no specific order)
 4. http://milkandcookies.be/
 5. http://sumocoders.be/
 6. http://www.systeme-d.com/
+7. http://www.edge.be/
 
 ## Leuven ##
 1. https://www.wieni.be/
