@@ -57,3 +57,5 @@ A very incomplete list of Belgian Agencies (in no specific order)
 2. http://denku.be/
 3. http://gemacoglobal.com/
 4. http://uni-t.be/
+5. http://www.ucan.be/
+6. http://brandingtoday.be/
