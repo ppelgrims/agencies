@@ -26,6 +26,7 @@ A very incomplete list of Belgian Agencies (in no specific order)
 20. http://www.antwerpfactory.com/
 21. http://www.mrhenry.be/
 22. http://www.blend.be/
+23. https://www.mediadonuts.com/
 
 ## Brussels ##
 1. http://www.tbwagroup.be/
