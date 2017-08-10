@@ -28,6 +28,10 @@ A very incomplete list of Belgian Agencies (in no specific order)
 22. http://www.blend.be/
 23. https://www.mediadonuts.com/
 24. http://artcoresociety.com/
+25. https://www.marbles.be
+26. http://studiodott.be/
+27. https://gafas.be/
+
 
 ## Brussels ##
 1. http://www.tbwagroup.be/
@@ -45,6 +49,7 @@ A very incomplete list of Belgian Agencies (in no specific order)
 6. http://www.systeme-d.com/
 7. http://www.edge.be/
 8. http://www.supermachine.be/
+9. https://dropsolid.com/
 
 ## Leuven ##
 1. https://www.wieni.be/
@@ -54,6 +59,7 @@ A very incomplete list of Belgian Agencies (in no specific order)
 5. https://madewithlove.be/
 6. http://there.be/
 7. http://kpot.be/
+8. https://www.fw4.be/
 
 ## Malines ##
 1. http://www.brandworks.be/
