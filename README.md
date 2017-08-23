@@ -31,6 +31,8 @@ A very incomplete list of Belgian Agencies (in no specific order)
 25. https://www.marbles.be
 26. http://studiodott.be/
 27. https://gafas.be/
+28. https://www.onlineheroes.com/
+29. https://www.amazus-digital.com/
 
 
 ## Brussels ##
