@@ -36,6 +36,7 @@ A very incomplete list of Belgian Agencies (in no specific order)
 1. https://taurusandeagle.com/
 1. http://darkcollective.co/
 1. http://bossdata.be/
+1. https://snackbytes.be/
 
 ## Brussels
 1. http://www.tbwagroup.be/
@@ -43,6 +44,7 @@ A very incomplete list of Belgian Agencies (in no specific order)
 1. http://www.saatchi.be/
 1. http://www.mortierbrigade.com/
 1. http://bbdo.be/
+1. https://ddb.be/
 
 ## Ghent
 1. http://wijs.be/
